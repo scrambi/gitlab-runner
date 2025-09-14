@@ -1,0 +1,4 @@
+namespace: registry
+resources:
+  - namespace.yaml
+  - registry-deploy.yaml
