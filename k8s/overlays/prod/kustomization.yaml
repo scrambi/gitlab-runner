@@ -1,0 +1,5 @@
+namespace: registry
+bases:
+  - ../../base
+patchesStrategicMerge:
+  - patch-registry.yaml
